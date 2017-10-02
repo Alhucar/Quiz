@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+    <string name="correct">Very Good!</string>
+    <string name="incorrect">Incorrect..</string>
+
+    <string name="questionContent">What is the capital of Butan?</string>
+
+    <array name="answers">
+        <item>Ougadougou</item>
+        <item>Pnohm Pehn</item>
+        <item>Thimphu</item>
+        <item>Yuhusa</item>
+    </array>
+
+    <integer name="correctAnswer">2</integer>
+
+</resources>
